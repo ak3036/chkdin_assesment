@@ -1,7 +1,8 @@
 Created a Product List and Cart Page Using React as frontend
 the live link can be found here-: https://productlistreact.netlify.app/
 
-To run the Project locally run npm install to install the dependencies
+To run the Project locally run npm install to install the dependencies and 
+
 run npm start to start the project on local host
 
 I have used React bootstrap for header component and basic styling of the page
