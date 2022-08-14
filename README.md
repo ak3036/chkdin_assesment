@@ -7,6 +7,8 @@ run npm start to start the project on local host
 
 I have used React bootstrap for header component and basic styling of the page
 
+I have used Context API for State Management
+
 I have used Faker to get dummy data to render in the page, due to which the image and description might not match
 
 Products have been rendered in the card component and contains price ,Image, rating , Add to cart etc
